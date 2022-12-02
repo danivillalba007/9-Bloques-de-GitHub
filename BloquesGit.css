@@ -1,0 +1,26 @@
+.container {
+    width: 720px;
+    height: 250px;
+    background-color: silver;
+}
+
+.col1 {
+    width: 220px;
+    padding: 10px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+}
+
+.col2 {
+    width: 220px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
+.col3 {
+    width: 220px;
+    padding: 10px;
+    background-color: rgb(205, 207, 255);
+    display: inline-block;
+}
